@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VarshithaAkurathi
+- 👋 Hi, I’m @Varshitha
+- 
 - 🌱 I’m currently learning AI & ML
 
 
